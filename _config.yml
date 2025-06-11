@@ -1,0 +1,7 @@
+theme: jekyll-theme-minimal
+title: Dallas Msp Comparison Guide
+description: Independent analysis of managed IT service providers in Dallas-Fort Worth
+google_analytics: # Add GA ID here
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
